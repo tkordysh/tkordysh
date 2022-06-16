@@ -5,6 +5,7 @@
 - 📫 How to reach me - tkordysh@gmail.com
 
 TECHNICAL SKILLS:
+
 Front End: React, Redux, Hooks, Context API, Jest, Cypress, Yum, Axios, JavaScript, HTML, CSS
 
 Back End: Node.js, Express, SQL, HTTPie, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
