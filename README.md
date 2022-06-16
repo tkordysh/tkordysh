@@ -6,7 +6,9 @@
 
 TECHNICAL SKILLS:
 Front End: React, Redux, Hooks, Context API, Jest, Cypress, Yum, Axios, JavaScript, HTML, CSS
+
 Back End: Node.js, Express, SQL, HTTPie, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
+
 Specializing in: Web Design and Development, Algorithms, Debugging, Deployment, Agile SDLC, TDD
 
 <!---
